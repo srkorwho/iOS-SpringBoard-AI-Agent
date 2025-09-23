@@ -9,6 +9,10 @@ If you're interested in the idea, feel free to fork it and continue developing i
 
 ---
 
+
+https://github.com/user-attachments/assets/e63c6fd5-2374-4b79-aea1-ffaccd90e5fb
+
+
 ## 🚀 Features (Partially Working)
 
 - 🎤 **Voice Input:** Press and hold a floating microphone button to speak commands.
