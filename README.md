@@ -53,6 +53,8 @@ This tweak handles the fundamentals; next steps include multi-step task planning
 4. **AI Response Parsing:** Extracts element coordinates from the JSON response: `{ "x": <number>, "y": <number> }`.
 5. **Touch Simulation:** Maps coordinates to screen space and triggers a touch event.
 
+Had to make it public -> private -> public so stars are gone 😭
+
 ### Example Flow
 
 1. Press and hold the mic button.
